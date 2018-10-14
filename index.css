@@ -237,6 +237,7 @@ body{
     align-items: center;
     justify-content: center;
     color:grey;
+	height: auto;
 }
 
 /*------------------------hours------------------------*/
