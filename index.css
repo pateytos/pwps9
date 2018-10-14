@@ -232,13 +232,13 @@ body{
     
 }
 #burn .chart{
-    height: 300px;
     background-color: lightgray;
     display: flex;
     align-items: center;
     justify-content: center;
     color:grey;
 }
+
 /*------------------------hours------------------------*/
 #hours{
     display: grid;
