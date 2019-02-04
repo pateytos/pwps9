@@ -232,12 +232,16 @@ body{
     
 }
 #burn .chart{
-    background-color: lightgray;
+    background-color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     color:grey;
 	height: auto;
+}
+#burn .chart img{
+    width: auto;
+	height: 100%;
 }
 
 /*------------------------hours------------------------*/
@@ -275,7 +279,7 @@ tr td:first-child{
 }
 tr td:last-child{
     font-weight: bold;
-            background-color: gray;
+
 }
 .updated{
     color:grey;
